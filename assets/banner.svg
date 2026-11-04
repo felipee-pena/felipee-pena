@@ -31,7 +31,7 @@
   <text x="62" y="134" font-size="52" font-weight="700" fill="#e6edf3" font-family="'Segoe UI',Helvetica,Arial,sans-serif">Felipe Pena</text>
   <rect x="64" y="152" width="300" height="3" rx="1.5" fill="url(#neon)" filter="url(#glow)"/>
   <text x="64" y="192" font-size="20" fill="#22d3ee">Desenvolvedor Java em formação</text>
-  <text x="64" y="222" font-size="16" fill="#8b949e">Analista de Sistemas ERP · Telecom · missão crítica</text>
+  <text x="64" y="222" font-size="16" fill="#8b949e">APIs REST · Spring Boot · Arquitetura de Software</text>
 
   <!-- right: code card -->
   <g transform="translate(700,36)">
