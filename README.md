@@ -22,6 +22,5 @@ AWS · Observabilidade com Grafana · Testes E2E com Cypress · Pós em Arquitet
  
 📫 [LinkedIn](https://www.linkedin.com/in/felipe-pena-8a31621a6)
 GitHub - felipee-pena/AppRH: [ESTUDOS] - Aplicação para apoio RH
-[ESTUDOS] - Aplicação para apoio RH . Contribute to felipee-pena/AppRH development by creating an account on GitHub.
  
  
