@@ -50,9 +50,9 @@ var foco = new Foco(
 
 ### 📚 Estudando agora
 
-- Deploy na AWS
+- AWS
 - Observabilidade com Grafana
-- Testes end-to-end com Cypress
+- Testes automatizados end-to-end com Cypress
 - Pós-graduação em Arquitetura e Desenvolvimento Java (a partir de 2027)
 
 ### 📫 Contato
