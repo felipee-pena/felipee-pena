@@ -19,11 +19,14 @@ Analista de Sistemas ERP no segmento de Telecom, atuando em ambientes de missão
 
 ### Atuação
 
-- Análise e tratamento de incidentes em produção
-- Validação de APIs REST e SOAP em homologação e produção (Postman e SoapUI)
-- Validação funcional de entregas corretivas e evolutivas
-- Acompanhamento de correções de vulnerabilidades junto a fornecedores
-- Orientação técnica de estagiários
+• Atuação na análise detalhada e resolução de incidentes complexos em ambientes de missão crítica (Telecom), garantindo a estabilidade, performance e continuidade dos serviços.
+• Análises em servidores Linux/HP-UX, utilizando Shell script é PowerShell.
+• Execução de testes funcionais, validações e homologações de APIs/WebServices utilizando Postman e SoapUI em suporte a novos deploys e implantações.
+• Análise de causa raiz de erros de aplicação e banco de dados através do mapeamento de logs e consultas estruturadas em bancos Oracle (SQL e PL/SQL).
+• Interação direta com equipes multidisciplinares de Engenharia, Infraestrutura e fornecedores para prevenção e mitigação de problemas sob a metodologia ágil (Scrum).
+• Criação de documentação técnica de sistemas, mapeamento de requisitos de software e desenvolvimento de visões operacionais (dashboards) no ServiceNow seguindo práticas ITIL.
+• Orientação técnica de estagiários.
+• Azure, AWS.
 
 Em paralelo, estudo desenvolvimento Java e engenharia de software, aplicados em projetos próprios.
 
@@ -51,10 +54,9 @@ var foco = new Foco(
 ### 📚 Estudando agora
 
 - AWS
-- Observabilidade com Grafana
-- Testes automatizados end-to-end com Cypress
 - Pós-graduação em Arquitetura e Desenvolvimento Java (a partir de 2027)
 
 ### 📫 Contato
 
 [LinkedIn](https://www.linkedin.com/in/felipe-pena-8a31621a6)
+[E-mail](fehdacp@gmail.com)
